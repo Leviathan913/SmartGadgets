@@ -95,7 +95,7 @@ export const assets = {
 };
 
 export const products = [
-  {
+ /* {
     _id: "aaaaa",
     name: 'Lenovo - Yoga 7i 2-in-1 16" 2K Touchscreen Laptop - Intel Core Ultra 7 155U with 16GB Memory - 1TB SSD - Storm Grey',
     description:
@@ -107,7 +107,7 @@ export const products = [
     sizes: ['14"', '16"', "L"],
     date: 1716634345448,
     bestseller: true,
-  },
+  },*/
   {
     _id: "aaaab",
     name: "Men Round Neck Pure Cotton T-shirt",
