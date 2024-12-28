@@ -95,19 +95,19 @@ export const assets = {
 };
 
 export const products = [
-  /* {
+  {
     _id: "aaaaa",
-    name: 'Lenovo - Yoga 7i 2-in-1 16" 2K Touchscreen Laptop - Intel Core Ultra 7 155U with 16GB Memory - 1TB SSD - Storm Grey',
+    name: "Women Round Neck Cotton Top",
     description:
-      "It’s inspiration all around with the Lenovo Yoga 7i 2-in-1, delivering 360° of flexibility, impressive performance, and ultra-immersive audio-visuals. Primed with creating power from up to the latest Intel Core Ultra processor, you can unleash greatness in every way. The larger 16” 16:10 WUXGA display makes entertainment and creative projects come to life like never before. All that with a fast-charging battery and all the ports you need, it's your art studio, home office, and cinema all in one.",
-    price: 699.99,
+      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    price: 100,
     image: [p_img1],
-    category: "Lenovo",
-    subCategory: "2 in 1 laptop",
-    sizes: ['14"', '16"', "L"],
+    category: "Women",
+    subCategory: "Topwear",
+    sizes: ["S", "M", "L"],
     date: 1716634345448,
     bestseller: true,
-  },*/
+  },
   {
     _id: "aaaab",
     name: "Men Round Neck Pure Cotton T-shirt",
